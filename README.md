@@ -1,8 +1,8 @@
 
 serdata[1-5].parquet: These are sample files containing data in PARQUET format.
 
--> Number of rows in each file: 1000
--> Column details:
+ Number of rows in each file: 1000
+ Column details:
 column#		column_name		hive_datatype
 =====================================================
 1		registration_dttm 	timestamp
