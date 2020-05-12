@@ -1,8 +1,8 @@
 
-serdata[1-5].parquet: These are sample files containing data in PARQUET format.
+
 
  
-Number of rows in each parquet file: 1000
+Number of rows in each parquet and orc file: 1000
 
 
 column		column_name		hive_datatype
